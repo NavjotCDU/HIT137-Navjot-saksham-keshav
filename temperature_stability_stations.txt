@@ -1,0 +1,7 @@
+Most Stable:
+Station 14015: StdDev 1.2°C
+Station 27058: StdDev 1.2°C
+Most Variable:
+Station 72150: StdDev 6.9°C
+Station 73054: StdDev 6.9°C
+Station 82039: StdDev 6.9°C
